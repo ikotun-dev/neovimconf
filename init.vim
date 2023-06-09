@@ -41,7 +41,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "wakatime 
 Plug 'wakatime/vim-wakatime'
 
-let g:wakatimeApiKey = 'waka_7f047dbe-5fd6-4107-bbf7-3debd8977442'
+let g:wakatimeApiKey = 'yourkey'
 
 call plug#end()
 
